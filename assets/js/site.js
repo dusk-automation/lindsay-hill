@@ -145,7 +145,10 @@
       var src = v.getAttribute(small ? 'data-src-sm' : 'data-src');
       if (src) {
         v.muted = true; v.src = src;
-        var pr = v.play(); if (pr && pr.catch) pr.catch(function () { /* autoplay refused: the still frame stays */ });
+        var playHero = function () { var pr = v.play(); if (pr && pr.catch) pr.catch(function () { /* autoplay refused: the still frame stays */ }); };
+        playHero();
+        /* a page opened in a background tab has its clip held; start it when the page is looked at */
+        document.addEventListener('visibilitychange', function () { if (!document.hidden && v.paused) playHero(); });
       }
     }
   }
