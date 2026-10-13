@@ -1,0 +1,19 @@
+Lindsay Hill Constructions: design preview by Dusk
+
+Logo, job photos and the bathroom video (assets/photos, assets/video/bathroom-reel.mp4):
+posted by the business on its Facebook page (facebook.com/LindsayHillConstructions) and its
+Google listing. Untouched copies are kept outside this folder in client-sites/_originals/lindsay-hill/.
+The logo on the site is redrawn from the Facebook profile picture so it stays sharp at any size.
+
+Hero video (assets/video/hero.mp4, hero-sm.mp4), Pexels licence (free to use, no attribution required):
+  "An aerial view of a house being built"   pexels.com/video/an-aerial-view-of-a-house-being-built-17506765/
+  Shown with a blue tint and labelled "Stock footage" on the page.
+
+Stock stand-ins (assets/stock), Unsplash licence (free to use, no attribution required).
+Each one is labelled "Stock photo" where it appears:
+  kitchen-a.jpg   Zac Gudakov            unsplash.com/photos/UPbYh3A5cdg
+  kitchen-b.jpg   Lotus Design N Print   unsplash.com/photos/oCw5_evbWyI
+  studs-sky.jpg   Barthelemy de Mazenod  unsplash.com/photos/se4NQY7-zSQ
+  reno-hall.jpg   Jessica Hearn          unsplash.com/photos/ut6gWxh3oqQ
+
+Fonts: Montserrat, Figtree and IBM Plex Mono, Google Fonts (Open Font License).
